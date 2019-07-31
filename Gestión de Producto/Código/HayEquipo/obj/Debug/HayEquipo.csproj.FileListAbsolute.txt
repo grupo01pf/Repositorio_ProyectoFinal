@@ -1,0 +1,176 @@
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\csc.exe
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\vbc.exe
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\HayEquipo.dll.config
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\HayEquipo.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\HayEquipo.pdb
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Antlr3.Runtime.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\EntityFramework.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\EntityFramework.SqlServer.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Newtonsoft.Json.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Owin.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Helpers.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Mvc.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Optimization.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Razor.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.WebPages.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\WebGrease.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Helpers.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Mvc.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Optimization.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.Razor.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.WebPages.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Antlr3.Runtime.pdb
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Newtonsoft.Json.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\EntityFramework.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\EntityFramework.SqlServer.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\EntityFramework.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\obj\Debug\HayEquipo.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\obj\Debug\HayEquipo.dll
+C:\Users\Franco\Desktop\Projects\HayEquipo\HayEquipo\HayEquipo\obj\Debug\HayEquipo.pdb
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\csc.exe
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\vbc.exe
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\HayEquipo.dll.config
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\HayEquipo.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\HayEquipo.pdb
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Antlr3.Runtime.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\EntityFramework.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\EntityFramework.SqlServer.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Newtonsoft.Json.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Owin.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Helpers.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Mvc.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Optimization.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Razor.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.WebPages.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\WebGrease.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Helpers.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Mvc.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Optimization.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.Razor.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.WebPages.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Antlr3.Runtime.pdb
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Newtonsoft.Json.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\EntityFramework.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\EntityFramework.SqlServer.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.Razor.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\EntityFramework.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\obj\Debug\HayEquipo.csprojResolveAssemblyReference.cache
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\obj\Debug\HayEquipo.dll
+C:\Users\Franco\Documents\Repositorio PF\Repositorio_Proyecto Final\Gestión de Producto\Código\HayEquipo\obj\Debug\HayEquipo.pdb
